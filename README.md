@@ -21,4 +21,4 @@ KTO Karatay Üniversitesi'nde **Bilgisayar Mühendisliği ve Endüstri Mühendis
 * **E-posta:** dolasnurefsan@gmail.com
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurefsand&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=nurefsand&show_icons=true&theme=radical" />
